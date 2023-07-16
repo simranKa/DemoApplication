@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyModule</string>
+    <string name="listening">Listening.....</string>
+    <string name="detected_speech">Detected Speech</string>
+</resources>

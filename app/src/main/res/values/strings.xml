@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DemoSdkApplication</string>
+    <string name="detected_speech">Detected Speech</string>
+    <string name="listening">Listening.....</string>
+</resources>
